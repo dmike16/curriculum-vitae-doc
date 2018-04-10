@@ -1,0 +1,15 @@
+= Curriculum vitae
+:author: Michele Cipolla
+:email: cipmiky@gmail.com
+:revnumber: 1.0
+:revdate: April 10 2018
+:revremark: {doctitle}
+:doctype: article
+:toc:
+:icons: font
+
+Content entered directly below the header but before the first section heading is called the preamble.
+
+== First level heading
+
+TODO

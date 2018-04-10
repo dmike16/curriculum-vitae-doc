@@ -1,0 +1,26 @@
+buildscript{
+    dependencies{
+        classpath 'org.asciidoctor:asciidoctorj-pdf:1.5.0-alpha.16'
+    }
+}
+
+plugins {
+    id 'org.asciidoctor.convert' version '1.5.7'
+}
+version = state
+group = pack
+
+asciidoctorj {
+    version = '1.5.5'
+}
+
+asciidoctor {
+    backends 'pdf'
+    sources {
+        include 'curriculum-vitae-doc.adoc'
+    }
+}
+
+task wrapper(type: Wrapper){
+  gradleVersion = '4.6'
+}
