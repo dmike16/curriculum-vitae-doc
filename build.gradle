@@ -19,6 +19,9 @@ asciidoctor {
     sources {
         include 'curriculum-vitae-doc.adoc'
     }
+    attributes 'pdf-stylesdir': 'theme',
+                'pdf-style': 'cvdm',
+                'pdf-fontsdir': 'fonts'
 }
 
 task wrapper(type: Wrapper){

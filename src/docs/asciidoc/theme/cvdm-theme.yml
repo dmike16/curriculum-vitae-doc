@@ -1,0 +1,22 @@
+font:
+  catalog:
+    NotoSerif:
+      normal: notosans-regular.ttf
+      medium: notosans-medium.ttf
+      italic: notosans-italic.ttf
+      bold: notosans-bold.ttf
+      bold_italic: notosans-bolditalic.ttf
+      light: notosans-ligth.ttf
+      medium_italic: notosans-mediumitalic.ttf
+      thin: notosans-thin.ttf
+      thin_italic: notosans-thinitalic.ttf
+page:
+  size: A4
+base:
+  font: 
+    family: NotoSerif
+    size: 11
+heading: 
+  font:
+    family: NotoSerif
+    size: 15
