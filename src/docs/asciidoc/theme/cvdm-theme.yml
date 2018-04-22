@@ -16,7 +16,15 @@ base:
   font: 
     family: NotoSerif
     size: 11
+    color: #546E7A
 heading: 
   font:
     family: NotoSerif
     size: 15
+    color: #263238
+title:
+  page:
+    font:
+      family: NotoSerif
+      size: 17
+      color: #263238
