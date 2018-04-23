@@ -6,12 +6,12 @@ font:
       italic: notosans-italic.ttf
       bold: notosans-bold.ttf
       bold_italic: notosans-bolditalic.ttf
-      light: notosans-ligth.ttf
+      light: notosans-light.ttf
       medium_italic: notosans-mediumitalic.ttf
       thin: notosans-thin.ttf
       thin_italic: notosans-thinitalic.ttf
 page:
-  size: A4
+  size: Letter
 base:
   font: 
     family: NotoSerif
@@ -24,7 +24,19 @@ heading:
     color: #263238
 title:
   page:
+    align: right
     font:
       family: NotoSerif
       size: 17
       color: #263238
+    logo:
+      align: right
+      image: image:cv-image.jpg[width=150%]
+    authors:
+      font:
+        size: $base_font_size 
+        style: light
+    revision: 
+      font: 
+        size: $title_page_authors_font_size
+        style: $title_page_authors_font_style 
