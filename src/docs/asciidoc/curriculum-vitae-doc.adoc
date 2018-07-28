@@ -1,4 +1,4 @@
-= Curriculum vitae
+= Curriculum vitae et studiorum
 :author: Michele Cipolla
 :email: cipmiky@gmail.com
 :revnumber: 1.0
@@ -8,8 +8,90 @@
 :toc:
 :icons: font
 
-Content entered directly below the header but before the first section heading is called the preamble.
+== Profile
 
-== First level heading
+Graduated in Applied Mathematics with solid background in Numerical Analysis,
+ Differential Equations and C programming language. Interested in
+web, mobile, desktop applications development and in numerical math research
+too. I've a scientic curiosity for how things work, that get me to try to discover
+what there is under the hood.
 
+== Personal Data
+
+[frame=all,grid=none, cols="1s,1"]
+|===
+
+| Name | Michele
+
+| Surname | Cipolla
+
+| Birth's date | 12th August 1987, Frosinone, Italy
+
+| Nationality | Italian
+
+| Mail | cipmiky@gmail.com
+
+| Gender | Male
+
+|===
+
+== Education
+
+[frame=none,grid=none, cols="1s,1,2a"]
+|===
+
+| 2016-2016 
+|
+|  *Training Course* +
+_Akt, Rome_
+
+* Arguments: Java SE, Java EE, SQL, ORACLE
+DB, JDBC, HTML, JAVASCRIPT
+
+| 2011-2014 
+|
+|  *Master's Degree in Math for Application* +
+_La Sapienza University, Rome_
+
+* Thesis: "A Semi-Lagrangian Scheme for Mean
+ Curvature Motion Volume Preserving"
+* Arguments: PDE (Partial differential equation) non linear. Differential geometry. 
+Semi-Lagrangian numerical method.
+* Final Mark: 109/110 
+
+| 2006-2010 
+|
+|  *Bachelor's Degree in Math* +
+_La Sapienza University, Rome_
+
+* Thesis: "Peano Brush"
+* Arguments: ODE (Ordinary differential equation)
+* Final Mark: 110/110
+
+| 2001-2006 
+|
+|  *Secondary school diploma* +
+_Liceo Scientifico  Martin Filetico, Ceccano (FR)_
+
+* Type: Scientific certificate
+* Final Mark: 100/100
+
+|===
+
+== Professional Experience
+TODO
+
+== Skills
+TODO
+
+== Projects
+.Hosted on github
+* This cv https://github.com/dmike16/curriculum-vitae-doc
+*  Generic makefile structure for building https://github.com/dmike16/make-build-things
+* Angular project with custom building configuration https://github.com/dmike16/ngx-lab1100
+* Thesis C project, a 3D image filtering algorithm https://github.com/dmike16/pvMcmMethod
+* Thesis Latex Project https://github.com/dmike16/uniDegreeThesis
+* Other projects in a pre-alpha stage https://github.com/dmike16
+
+== Interests & Additional Information
 TODO
