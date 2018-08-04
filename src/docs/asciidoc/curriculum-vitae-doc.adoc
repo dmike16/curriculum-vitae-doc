@@ -13,7 +13,7 @@
 Graduated in Applied Mathematics with solid background in Numerical Analysis,
  Differential Equations and C programming language. Interested in
 web, mobile, desktop applications development and in numerical math research
-too. I've a scientic curiosity for how things work, that get me to try to discover
+too. I've a scientific curiosity for how things work, that get me to try to discover
 what there is under the hood.
 
 == Personal Data
@@ -79,7 +79,35 @@ _Liceo Scientifico  Martin Filetico, Ceccano (FR)_
 |===
 
 == Professional Experience
-TODO
+
+[frame=none,grid=none, cols="1s,1,2a"]
+|===
+
+| 2018-Present 
+|
+|  *Web developer* +
+_Banca d' Italia, Frascati Rome_ (as external consultant) +
+
+* Technology: Angular, Redux, Webpack, Json-server, Bootstrap, Git.
+* Product: Report web application
+
+| 2017-2018 
+|
+|  *Backend developer* +
+_Banca d' Italia, Frascati Rome_ (as external consultant) +
+
+* Technology: Struts2, Java EJB 2.1, Jboss EAP 7, Maven, Serena Dimensions.
+* Product: Migration of a web application
+
+| 2016-2017 
+|
+|  *Backend developer* +
+_TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
+
+* Technology: Zkoss, Java Servlet 3.0, PostgressSql, Tomcat.
+* Product: CRUD internal application
+
+|===
 
 == Skills
 TODO
@@ -87,11 +115,12 @@ TODO
 == Projects
 .Hosted on github
 * This cv https://github.com/dmike16/curriculum-vitae-doc
-*  Generic makefile structure for building https://github.com/dmike16/make-build-things
+*  Generic makefile structure  https://github.com/dmike16/make-build-things
 * Angular project with custom building configuration https://github.com/dmike16/ngx-lab1100
 * Thesis C project, a 3D image filtering algorithm https://github.com/dmike16/pvMcmMethod
 * Thesis Latex Project https://github.com/dmike16/uniDegreeThesis
 * Other projects in a pre-alpha stage https://github.com/dmike16
 
 == Interests & Additional Information
-TODO
+I  play sport and in particular  soccer and 
+sometime i spend my free time studing guitar on my own. 
