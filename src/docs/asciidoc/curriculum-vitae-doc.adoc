@@ -110,7 +110,68 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 |===
 
 == Skills
-TODO
+.Professional
+[frame=none,grid=none, cols="1s,2a,1s,2", options="header"]
+|===
+
+| Skill 
+| Spec
+| Level
+| When
+
+| Typescript 
+|  
+* All principal language spec.
+* Used particulry inside Angular context.
+
+| Medium+
+| Using now
+
+| Java 
+|  
+* All principal language spec.
+* Features from JavaSE9: _Java Module_
+* Feature from JavaSE 8: _Lambda, Functional Interface, Default Interface Methods, Stream Api_
+* Features from JavaEE 7: _Servlet, Json Api, JaxRS, EJB 3.1_
+
+| Medium+
+| Using now
+
+|===
+
+.Study
+[frame=none,grid=none, cols="1s,2a,1s,2", options="header"]
+|===
+
+| Skill 
+| Spec
+| Level
+| When
+
+| ECMAScript 
+| 
+* All principal language spec.
+* Some ES6 feature.
+* NodeJs Api
+
+| Medium
+| Using now
+
+| Software Design Patterns 
+| 
+* Singleton.
+* Observer.
+* Command
+* Visitor
+* Machine State
+* Abstract Factory
+* Dependency Injection
+* Lazy initialitation
+
+| Basic
+| Used during my studies
+
+|===
 
 == Projects
 .Hosted on github
