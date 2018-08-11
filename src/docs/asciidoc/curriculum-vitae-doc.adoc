@@ -2,7 +2,7 @@
 :author: Michele Cipolla
 :email: cipmiky@gmail.com
 :revnumber: 1.0
-:revdate: April 10 2018
+:revdate: August 11 2018
 :revremark: {doctitle}
 :doctype: article
 :toc:
@@ -123,7 +123,6 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 |  
 * All principal language spec.
 * Used particulry inside Angular context.
-
 | Medium+
 | Using now
 
@@ -131,10 +130,23 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 |  
 * All principal language spec.
 * Features from JavaSE9: _Java Module_
-* Feature from JavaSE 8: _Lambda, Functional Interface, Default Interface Methods, Stream Api_
+* Feature from JavaSE 8: _Lambda, Functional Interface, Default Interface Methods, Stream Api, JDBC Api_
 * Features from JavaEE 7: _Servlet, Json Api, JaxRS, EJB 3.1_
-
 | Medium+
+| Using now
+
+| Build tools & Task Runner 
+|  
+* Maven
+* Jenkins
+* Gulp 
+| Basic+
+| Using now
+
+| Bundle Tools 
+|  
+* Webpack. Used for Angular configuration.
+| Basic+
 | Using now
 
 |===
@@ -153,7 +165,6 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 * All principal language spec.
 * Some ES6 feature.
 * NodeJs Api
-
 | Medium
 | Using now
 
@@ -167,9 +178,26 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 * Abstract Factory
 * Dependency Injection
 * Lazy initialitation
-
 | Basic
 | Used during my studies
+
+| C 
+|  
+* All principal language spec.
+* C11 new features.
+* Programming features of  a gnu-linux  enviroment: _signal, pthread, process, low level I/O, files stat_  
+
+| Medium
+| Using during my thesis project
+
+| Build tools & Task Runner 
+|  
+* Makefile: _started a project to build C program_.
+* Gradle:  _started a project to create a custom plugin_.
+* Bazel: _basic features_ 
+
+| Basic+
+| Studing  now
 
 |===
 
