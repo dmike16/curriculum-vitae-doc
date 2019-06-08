@@ -1,12 +1,13 @@
 = Curriculum vitae et studiorum
 :author: Michele Cipolla
 :email: cipmiky@gmail.com
-:revnumber: 1.0
-:revdate: August 11 2018
+:revnumber: 1.1
+:revdate: June 08 2019
 :revremark: {doctitle}
 :doctype: article
 :toc:
 :icons: font
+:imagesdir: images
 
 == Profile
 
@@ -39,6 +40,14 @@ what there is under the hood.
 
 [frame=none,grid=none, cols="1s,1,2a"]
 |===
+
+| 2019-2019
+|
+| *Oracle CA Java 8* image:O_java8_CA.png[OCA] +
+_Elis. Rome_
+
+* Arguments: java se principal features, lambda expression
+, LocalDate and LocalTime new Api.
 
 | 2016-2016 
 |
@@ -83,7 +92,15 @@ _Liceo Scientifico  Martin Filetico, Ceccano (FR)_
 [frame=none,grid=none, cols="1s,1,2a"]
 |===
 
-| 2018-Present 
+| 2019-Present 
+|
+|  *Web developer* +
+_Banca d' Italia, Frascati Rome_ (as external consultant) +
+
+* Technology: Angular, Redux, Webpack, Json-server, Bootstrap, Git, E2E test with Selenium Webdriver Java Api.
+* Product: Management web application.
+
+| 2018-2019
 |
 |  *Web developer* +
 _Banca d' Italia, Frascati Rome_ (as external consultant) +
@@ -204,12 +221,14 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 == Projects
 .Hosted on github
 * This cv https://github.com/dmike16/curriculum-vitae-doc
-*  Generic makefile structure  https://github.com/dmike16/make-build-things
+* Simple typescript transpliler(tsst) https://github.com/dual-lab/tsst
+*  Generic makefile structure  https://github.com/dual-lab/make-build-things
+* Cli-Utilities to configure my projects https://github.com/dual-lab/dlab-cli
 * Angular project with custom building configuration https://github.com/dmike16/ngx-lab1100
 * Thesis C project, a 3D image filtering algorithm https://github.com/dmike16/pvMcmMethod
 * Thesis Latex Project https://github.com/dmike16/uniDegreeThesis
-* Other projects in a pre-alpha stage https://github.com/dmike16
+* Other projects in a pre-alpha stage https://github.com/dual-lab
 
 == Interests & Additional Information
-I  play sport and in particular  soccer and 
-sometime i spend my free time studing guitar on my own. 
+I  play sport and in particular  soccer and tennis.
+Sometime i spend my free time studing guitar on my own. 
