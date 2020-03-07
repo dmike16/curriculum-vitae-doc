@@ -1,11 +1,11 @@
 font:
   catalog:
-    NotoSerif:
+    NotoSans:
       normal: notosans-regular.ttf
       medium: notosans-medium.ttf
       italic: notosans-italic.ttf
       bold: notosans-bold.ttf
-      bold_italic: notosans-bolditalic.ttf
+      bold_italic: notosans-boldItalic.ttf
       light: notosans-light.ttf
       medium_italic: notosans-mediumitalic.ttf
       thin: notosans-thin.ttf
@@ -13,30 +13,30 @@ font:
 page:
   size: Letter
 base:
-  font: 
-    family: NotoSerif
+  font:
+    family: NotoSans
     size: 11
     color: #546E7A
-heading: 
+heading:
   font:
-    family: NotoSerif
+    family: NotoSans
     size: 15
     color: #263238
 title:
   page:
     align: right
     font:
-      family: NotoSerif
+      family: NotoSans
       size: 17
       color: #263238
     logo:
       align: right
-      image: image:cv-image.jpg[width=150%]
+      image: image:cv-image.jpg[width=20%]
     authors:
       font:
-        size: $base_font_size 
+        size: $base_font_size
         style: light
-    revision: 
-      font: 
+    revision:
+      font:
         size: $title_page_authors_font_size
-        style: $title_page_authors_font_style 
+        style: $title_page_authors_font_style

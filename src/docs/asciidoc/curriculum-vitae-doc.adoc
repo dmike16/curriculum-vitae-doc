@@ -4,7 +4,7 @@
 :revnumber: 1.1
 :revdate: June 08 2019
 :revremark: {doctitle}
-:doctype: article
+:doctype: book
 :toc:
 :icons: font
 :imagesdir: images
@@ -49,7 +49,7 @@ _Elis. Rome_
 * Arguments: java se principal features, lambda expression
 , LocalDate and LocalTime new Api.
 
-| 2016-2016 
+| 2016-2016
 |
 |  *Training Course* +
 _Akt, Rome_
@@ -57,18 +57,18 @@ _Akt, Rome_
 * Arguments: Java SE, Java EE, SQL, ORACLE
 DB, JDBC, HTML, JAVASCRIPT
 
-| 2011-2014 
+| 2011-2014
 |
 |  *Master's Degree in Math for Application* +
 _La Sapienza University, Rome_
 
 * Thesis: "A Semi-Lagrangian Scheme for Mean
  Curvature Motion Volume Preserving"
-* Arguments: PDE (Partial differential equation) non linear. Differential geometry. 
+* Arguments: PDE (Partial differential equation) non linear. Differential geometry.
 Semi-Lagrangian numerical method.
-* Final Mark: 109/110 
+* Final Mark: 109/110
 
-| 2006-2010 
+| 2006-2010
 |
 |  *Bachelor's Degree in Math* +
 _La Sapienza University, Rome_
@@ -77,7 +77,7 @@ _La Sapienza University, Rome_
 * Arguments: ODE (Ordinary differential equation)
 * Final Mark: 110/110
 
-| 2001-2006 
+| 2001-2006
 |
 |  *Secondary school diploma* +
 _Liceo Scientifico  Martin Filetico, Ceccano (FR)_
@@ -92,7 +92,7 @@ _Liceo Scientifico  Martin Filetico, Ceccano (FR)_
 [frame=none,grid=none, cols="1s,1,2a"]
 |===
 
-| 2019-Present 
+| 2019-Present
 |
 |  *Web developer* +
 _Banca d' Italia, Frascati Rome_ (as external consultant) +
@@ -108,7 +108,7 @@ _Banca d' Italia, Frascati Rome_ (as external consultant) +
 * Technology: Angular, Redux, Webpack, Json-server, Bootstrap, Git.
 * Product: Report web application
 
-| 2017-2018 
+| 2017-2018
 |
 |  *Backend developer* +
 _Banca d' Italia, Frascati Rome_ (as external consultant) +
@@ -116,7 +116,7 @@ _Banca d' Italia, Frascati Rome_ (as external consultant) +
 * Technology: Struts2, Java EJB 2.1, Jboss EAP 7, Maven, Serena Dimensions.
 * Product: Migration of a web application
 
-| 2016-2017 
+| 2016-2017
 |
 |  *Backend developer* +
 _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
@@ -131,20 +131,20 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 [frame=none,grid=none, cols="1s,2a,1s,2", options="header"]
 |===
 
-| Skill 
+| Skill
 | Spec
 | Level
 | When
 
-| Typescript 
-|  
+| Typescript
+|
 * All principal language spec.
 * Used particulry inside Angular context.
 | Medium+
 | Using now
 
-| Java 
-|  
+| Java
+|
 * All principal language spec.
 * Features from JavaSE9: _Java Module_
 * Feature from JavaSE 8: _Lambda, Functional Interface, Default Interface Methods, Stream Api, JDBC Api_
@@ -152,16 +152,16 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 | Medium+
 | Using now
 
-| Build tools & Task Runner 
-|  
+| Build tools & Task Runner
+|
 * Maven
 * Jenkins
-* Gulp 
+* Gulp
 | Basic+
 | Using now
 
-| Bundle Tools 
-|  
+| Bundle Tools
+|
 * Webpack. Used for Angular configuration.
 | Basic+
 | Using now
@@ -172,21 +172,21 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 [frame=none,grid=none, cols="1s,2a,1s,2", options="header"]
 |===
 
-| Skill 
+| Skill
 | Spec
 | Level
 | When
 
-| ECMAScript 
-| 
+| ECMAScript
+|
 * All principal language spec.
 * Some ES6 feature.
 * NodeJs Api
 | Medium
 | Using now
 
-| Software Design Patterns 
-| 
+| Software Design Patterns
+|
 * Singleton.
 * Observer.
 * Command
@@ -198,20 +198,20 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 | Basic
 | Used during my studies
 
-| C 
-|  
+| C
+|
 * All principal language spec.
 * C11 new features.
-* Programming features of  a gnu-linux  enviroment: _signal, pthread, process, low level I/O, files stat_  
+* Programming features of  a gnu-linux  enviroment: _signal, pthread, process, low level I/O, files stat_
 
 | Medium
 | Using during my thesis project
 
-| Build tools & Task Runner 
-|  
+| Build tools & Task Runner
+|
 * Makefile: _started a project to build C program_.
 * Gradle:  _started a project to create a custom plugin_.
-* Bazel: _basic features_ 
+* Bazel: _basic features_
 
 | Basic+
 | Studing  now
@@ -231,4 +231,4 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 
 == Interests & Additional Information
 I  play sport and in particular  soccer and tennis.
-Sometime i spend my free time studing guitar on my own. 
+Sometime i spend my free time studing guitar on my own.
