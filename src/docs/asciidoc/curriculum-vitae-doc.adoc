@@ -92,7 +92,15 @@ _Liceo Scientifico  Martin Filetico, Ceccano (FR)_
 [frame=none,grid=none, cols="1s,1,2a"]
 |===
 
-| 2019-Present
+| 2020-Present
+|
+|  *Full stack developer* +
+_Reply Technology, Rome_ +
+
+* Technology: Angular, Redux, Angular-Material, Git, Java EE, Docker.
+* Product: Internal management web application for CDP (Cassa depositi e prestiti).
+
+| 2019-2020
 |
 |  *Web developer* +
 _Banca d' Italia, Frascati Rome_ (as external consultant) +
@@ -138,7 +146,7 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 
 | Typescript
 |
-* All principal language spec.
+* All principal language spec and 3.9 last features.
 * Used particulry inside Angular context.
 | Medium+
 | Using now
@@ -182,6 +190,7 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 * All principal language spec.
 * Some ES6 feature.
 * NodeJs Api
+* Deno runtime Api
 | Medium
 | Using now
 
@@ -207,14 +216,21 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 | Medium
 | Using during my thesis project
 
-| Build tools & Task Runner
+| Makefile
+| 
+* All principal tools features ( recipe, variables, recursive invocation, static rules... )
+* Create a custom makefile configuration to build different projects.
+| Medium
+| Studing now
+
+
+| Other tools & Task Runner
 |
-* Makefile: _started a project to build C program_.
-* Gradle:  _started a project to create a custom plugin_.
+* Gradle:  _basic feature_.
 * Bazel: _basic features_
 
 | Basic+
-| Studing  now
+| Studied some time ago.
 
 |===
 
@@ -222,7 +238,8 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 .Hosted on github
 * This cv https://github.com/dmike16/curriculum-vitae-doc
 * Simple typescript transpliler(tsst) https://github.com/dual-lab/tsst
-*  Generic makefile structure  https://github.com/dual-lab/make-build-things
+* Simple babel just in time transpliler (bast) https://github.com/dual-lab/bast
+* Generic makefile structure  https://github.com/dual-lab/make-build-things
 * Cli-Utilities to configure my projects https://github.com/dual-lab/dlab-cli
 * Angular project with custom building configuration https://github.com/dmike16/ngx-lab1100
 * Thesis C project, a 3D image filtering algorithm https://github.com/dmike16/pvMcmMethod
