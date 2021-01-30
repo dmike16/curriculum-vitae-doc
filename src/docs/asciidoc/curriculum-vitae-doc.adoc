@@ -1,8 +1,8 @@
 = Curriculum vitae et studiorum
 :author: Michele Cipolla
 :email: cipmiky@gmail.com
-:revnumber: 1.2
-:revdate: June 29 2020
+:revnumber: 1.3
+:revdate: Jan 30 2021s
 :revremark: {doctitle}
 :doctype: article
 :title-page:
@@ -165,13 +165,19 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 * Maven
 * Jenkins
 * Gulp
-| Basic+
+| Medium
 | Using now
 
 | Bundle Tools
 |
-* Webpack. Used for Angular configuration.
-| Basic+
+* Webpack. Used for Angular configuration and other bundle projects
+| Medium
+| Using now
+
+| Container Tools
+|
+* Docker + docker-compose. Used to start a development environment.
+| Basic
 | Using now
 
 |===
@@ -221,7 +227,7 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 * All principal tools features ( recipe, variables, recursive invocation, static rules... )
 * Create a custom makefile configuration to build different projects.
 | Medium
-| Studing now
+| Used for my makefile project
 
 
 | Other tools & Task Runner
@@ -232,11 +238,18 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 | Basic+
 | Studied some time ago.
 
+| Container Tools
+|
+* Podman + buildah + skopeo. Studied to give me an alternative to docker deamon.
+| Basic
+| Studied some time ago.
 |===
 
 == Projects
 .Hosted on github
 * This cv https://github.com/dmike16/curriculum-vitae-doc
+* Meta constructor for commanderjs https://github.com/dual-lab/meta-commander
+* A webpack html module plugin https://github.com/dual-lab/html-module-webpack-plugin
 * Simple typescript transpliler(tsst) https://github.com/dual-lab/tsst
 * Simple babel just in time transpliler (bast) https://github.com/dual-lab/bast
 * Generic makefile structure  https://github.com/dual-lab/make-build-things

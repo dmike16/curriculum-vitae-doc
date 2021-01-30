@@ -31,7 +31,7 @@ title:
       color: #263238
     logo:
       align: right
-      image: image:cv-image.jpg[width=20%]
+      image: image:cv-image.jpg[width=27%]
     authors:
       font:
         size: $base_font_size
