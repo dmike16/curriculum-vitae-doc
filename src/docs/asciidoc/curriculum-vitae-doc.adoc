@@ -1,8 +1,8 @@
 = Curriculum vitae et studiorum
 :author: Michele Cipolla
 :email: cipmiky@gmail.com
-:revnumber: 1.3
-:revdate: Jan 30 2021s
+:revnumber: 1.4
+:revdate: OCT 27 2021s
 :revremark: {doctitle}
 :doctype: article
 :title-page:
@@ -40,6 +40,15 @@ what there is under the hood.
 
 [frame=none,grid=none, cols="1s,1,2a"]
 |===
+
+| 2021-2021
+|
+| *Competence Center* +
+_Microservices with GraphQL Protocol_
+
+* Technology: GraphQL libs, Spring boot, Rust, NestJS,
+Docker and Docker-Compose, Appollo Server Gatway, Appollo Federation
+* Product: A microservices stub architecture using GraphQL protocol
 
 | 2019-2019
 |
@@ -151,6 +160,14 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 | Medium+
 | Using now
 
+| NestJS
+|
+* Principal concepts: module ,services and dependencies injection
+* Integration with relational database
+* Integration with graphQL protocol
+| Basic
+| Using for my competence center project
+
 | Java
 |
 * All principal language spec.
@@ -160,11 +177,38 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 | Medium+
 | Using now
 
+| Spring boot
+|
+* Base concepts, services, controller and repositories
+* Web MVC framwork
+* GraphQL DGS Framework
+| Basic
+| Using for my competence center project
+
+| Flayway
+|
+* Base migrations concepts
+* Configutation with javaEE and Spring boot
+| Basic
+| Using now
+
+| Rust
+|
+* Base language concepts: type system, lifetime system, borrowing rules, struct
+, directive, macros, visibility rules, modules organization, traits, branch matching, ecc..
+* Integration with Rocket web framwork
+* Integration with diesel orm library
+* Integration with async rust programming (Tokio runtime)
+* Integration with async-graphQL library
+| Medium
+| Using for my competence center project
+
 | Build tools & Task Runner
 |
 * Maven
 * Jenkins
 * Gulp
+* Cargo
 | Medium
 | Using now
 
@@ -177,7 +221,7 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 | Container Tools
 |
 * Docker + docker-compose. Used to start a development environment.
-| Basic
+| Medium
 | Using now
 
 |===
@@ -248,6 +292,7 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 == Projects
 .Hosted on github
 * This cv https://github.com/dmike16/curriculum-vitae-doc
+* Jarvis example of creating a kernel in Rust https://github.com/dual-lab/jarvis
 * Meta constructor for commanderjs https://github.com/dual-lab/meta-commander
 * A webpack html module plugin https://github.com/dual-lab/html-module-webpack-plugin
 * Simple typescript transpliler(tsst) https://github.com/dual-lab/tsst

@@ -1,11 +1,11 @@
 import org.asciidoctor.gradle.jvm.AsciidoctorTask
 
 plugins {
-    id("org.asciidoctor.jvm.convert") version "3.1.0"
+    id("org.asciidoctor.jvm.convert") version "3.3.2"
 }
 
 repositories {
-    jcenter()
+    mavenCentral()
 }
 
 version = state
