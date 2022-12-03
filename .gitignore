@@ -51,3 +51,6 @@ build-iPhoneSimulator/
 
 # gradle
 .gradle/
+
+# fleet
+.fleet/

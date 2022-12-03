@@ -1,8 +1,8 @@
 = Curriculum vitae et studiorum
 :author: Michele Cipolla
 :email: cipmiky@gmail.com
-:revnumber: 1.4
-:revdate: OCT 27 2021s
+:revnumber: 1.5
+:revdate: DIC 3 2022s
 :revremark: {doctitle}
 :doctype: article
 :title-page:
@@ -40,6 +40,13 @@ what there is under the hood.
 
 [frame=none,grid=none, cols="1s,1,2a"]
 |===
+
+| 2022-2022
+|
+| *Course Docker + Kubernetes*
+
+* Arguments: docker, docker-compose, kubernetes principal objects,
+helm
 
 | 2021-2021
 |
@@ -101,7 +108,23 @@ _Liceo Scientifico  Martin Filetico, Ceccano (FR)_
 [frame=none,grid=none, cols="1s,1,2a"]
 |===
 
-| 2020-Present
+| 2022-Present
+|
+| *Backend Developer* +
+_Almaviva, Rome_ (as external consultant) +
+
+* Technology: Spring boot, Spring Integration, Mqtt protocol, Kafka, WSO2 Esb, Elassandra, MySql, ElasticSearch Client Api, Apache Spark
+* Product: Monitoring application for iot sensors installed on train stations or bridge
+
+| 2022-2022
+|
+| *Full stack developer* +
+_Almaviva, Rome_ (as external consultant) +
+
+* Technology: Spring boot, Google GPRC, Spring Rest Docs, WebAudio Api, AudioWorklet, WAV Specification, Java 17, WSO2 Identity Manager
+* Product: Vocal Authentication  (Recogniction + Enrollement)
+
+| 2020-2022
 |
 |  *Full stack developer* +
 _Reply Technology, Rome_ +
@@ -158,7 +181,7 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 * All principal language spec and 3.9 last features.
 * Used particulry inside Angular context.
 | Medium+
-| Using now
+| Using for Angular projects
 
 | NestJS
 |
@@ -171,7 +194,8 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 | Java
 |
 * All principal language spec.
-* Features from JavaSE9: _Java Module_
+* Features from JavaSE 17: _Record class_
+* Features from JavaSE 9: _Java Module_
 * Feature from JavaSE 8: _Lambda, Functional Interface, Default Interface Methods, Stream Api, JDBC Api_
 * Features from JavaEE 7: _Servlet, Json Api, JaxRS, EJB 3.1_
 | Medium+
@@ -182,13 +206,39 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 * Base concepts, services, controller and repositories
 * Web MVC framwork
 * GraphQL DGS Framework
-| Basic
-| Using for my competence center project
+* Spring Integartion
+* Spring Data JPA
+* Spring REST Docs
+* Spring Shell
+* Spring GRPC
+| Medium+
+| Using Now
+
+| Scala
+|
+* Principal language features from scala 2 and 3
+| Medium
+| Using now
+
+| Apache Spark
+|
+* SQL Data set and Data Frama
+* Scala Api
+* Deploy job on a Yarn cluster
+| Medium
+| Using now
 
 | Flayway
 |
 * Base migrations concepts
 * Configutation with javaEE and Spring boot
+| Basic
+| Using in 2022
+
+| Liquibase
+|
+* Base migrations concepts
+* Configutation with mavne plugin
 | Basic
 | Using now
 
@@ -287,6 +337,13 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 * Podman + buildah + skopeo. Studied to give me an alternative to docker deamon.
 | Basic
 | Studied some time ago.
+
+| Deployment Orchestrator Tools
+|
+* Kubernetes. Used during the course
+| Basic
+| Using during the course
+
 |===
 
 == Projects
@@ -298,10 +355,11 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 * Simple typescript transpliler(tsst) https://github.com/dual-lab/tsst
 * Simple babel just in time transpliler (bast) https://github.com/dual-lab/bast
 * Generic makefile structure  https://github.com/dual-lab/make-build-things
-* Cli-Utilities to configure my projects https://github.com/dual-lab/dlab-cli
 * Angular project with custom building configuration https://github.com/dmike16/ngx-lab1100
 * Thesis C project, a 3D image filtering algorithm https://github.com/dmike16/pvMcmMethod
 * Thesis Latex Project https://github.com/dmike16/uniDegreeThesis
+* Common code to create a custom k8s Admission webhook https://github.com/dual-lab/admit-webook-boilerplate
+* Collections of container https://github.com/dual-lab/dlab-containerized
 * Other projects in a pre-alpha stage https://github.com/dual-lab
 
 == Interests & Additional Information
