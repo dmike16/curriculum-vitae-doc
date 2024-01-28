@@ -1,8 +1,8 @@
 = Curriculum vitae et studiorum
 :author: Michele Cipolla
 :email: cipmiky@gmail.com
-:revnumber: 1.5
-:revdate: DIC 3 2022s
+:revnumber: 1.6
+:revdate: GEN 28 2024s
 :revremark: {doctitle}
 :doctype: article
 :title-page:
@@ -108,7 +108,16 @@ _Liceo Scientifico  Martin Filetico, Ceccano (FR)_
 [frame=none,grid=none, cols="1s,1,2a"]
 |===
 
-| 2022-Present
+| 2024-Present
+|
+| *Backend Developer* +
+_Almaviva, Rome_ (as external consultant) +
+
+* Technology: Spring boot, Spring Integration, Mqtt protocol, Kafka, WSO2 Esb, Wso2 Stream Integrator, Elassandra, MySql, ElasticSearch Client Api, Apache Spark, Portainer, GraalVM, Kubernetes, Helm
+* Product: Monitoring application for iot sensors installed on train stations or bridge
+
+
+| 2022-2024
 |
 | *Backend Developer* +
 _Almaviva, Rome_ (as external consultant) +
@@ -208,6 +217,8 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 * GraphQL DGS Framework
 * Spring Integartion
 * Spring Data JPA
+* Spring Data Cassandra
+* Spring Actuator
 * Spring REST Docs
 * Spring Shell
 * Spring GRPC
@@ -271,7 +282,14 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 | Container Tools
 |
 * Docker + docker-compose. Used to start a development environment.
+* Podman + Quadlet. Used to start a development environment and on edge devices
 | Medium
+| Using now
+
+| Deployment Orchestrator Tools
+|
+* Kubernetes.
+| Basic
 | Using now
 
 |===
@@ -334,8 +352,8 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 
 | Container Tools
 |
-* Podman + buildah + skopeo. Studied to give me an alternative to docker deamon.
-| Basic
+* Buildah + skopeo. Studied to give me an alternative to docker deamon.
+| Medium
 | Studied some time ago.
 
 | Deployment Orchestrator Tools
