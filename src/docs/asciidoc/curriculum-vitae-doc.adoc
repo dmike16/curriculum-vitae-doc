@@ -41,6 +41,12 @@ what there is under the hood.
 [frame=none,grid=none, cols="1s,1,2a"]
 |===
 
+| 2025-2025
+|
+| *Akka fundamentals + Akka java pattern*
+
+* https://akkademy.akka.io/share/v1/gamification/assigned_badge/82054d97-8c4f-460f-96bc-6cec82957208/shared?lang=en&t=1737894678591[Java Pattern], https://akkademy.akka.io/share/v1/gamification/assigned_badge/74a337e8-3f2b-4603-ae50-dcd2331c4ba7/shared?lang=en&t=1737894802645[Akka basic java]
+
 | 2022-2022
 |
 | *Course Docker + Kubernetes*
@@ -108,7 +114,7 @@ _Liceo Scientifico  Martin Filetico, Ceccano (FR)_
 [frame=none,grid=none, cols="1s,1,2a"]
 |===
 
-| 2024-Present
+| 2024-Present (Software Strategy SPA)
 |
 | *Backend Developer* +
 _Almaviva, Rome_ (as external consultant) +
@@ -117,7 +123,7 @@ _Almaviva, Rome_ (as external consultant) +
 * Product: Monitoring application for iot sensors installed on train stations or bridge
 
 
-| 2022-2024
+| 2022-2024 (Software Strategy SPA)
 |
 | *Backend Developer* +
 _Almaviva, Rome_ (as external consultant) +
@@ -125,7 +131,7 @@ _Almaviva, Rome_ (as external consultant) +
 * Technology: Spring boot, Spring Integration, Mqtt protocol, Kafka, WSO2 Esb, Elassandra, MySql, ElasticSearch Client Api, Apache Spark
 * Product: Monitoring application for iot sensors installed on train stations or bridge
 
-| 2022-2022
+| 2022-2022 (Software Strategy SPA)
 |
 | *Full stack developer* +
 _Almaviva, Rome_ (as external consultant) +
@@ -133,7 +139,7 @@ _Almaviva, Rome_ (as external consultant) +
 * Technology: Spring boot, Google GPRC, Spring Rest Docs, WebAudio Api, AudioWorklet, WAV Specification, Java 17, WSO2 Identity Manager
 * Product: Vocal Authentication  (Recogniction + Enrollement)
 
-| 2020-2022
+| 2020-2022 (Replay Technology)
 |
 |  *Full stack developer* +
 _Reply Technology, Rome_ +
@@ -141,7 +147,7 @@ _Reply Technology, Rome_ +
 * Technology: Angular, Redux, Angular-Material, Git, Java EE, Docker.
 * Product: Internal management web application for CDP (Cassa depositi e prestiti).
 
-| 2019-2020
+| 2019-2020 (Top Network SPA)
 |
 |  *Web developer* +
 _Banca d' Italia, Frascati Rome_ (as external consultant) +
@@ -149,7 +155,7 @@ _Banca d' Italia, Frascati Rome_ (as external consultant) +
 * Technology: Angular, Redux, Webpack, Json-server, Bootstrap, Git, E2E test with Selenium Webdriver Java Api.
 * Product: Management web application.
 
-| 2018-2019
+| 2018-2019 (Top Network SPA)
 |
 |  *Web developer* +
 _Banca d' Italia, Frascati Rome_ (as external consultant) +
@@ -157,7 +163,7 @@ _Banca d' Italia, Frascati Rome_ (as external consultant) +
 * Technology: Angular, Redux, Webpack, Json-server, Bootstrap, Git.
 * Product: Report web application
 
-| 2017-2018
+| 2017-2018 (Top Network SPA)
 |
 |  *Backend developer* +
 _Banca d' Italia, Frascati Rome_ (as external consultant) +
@@ -165,7 +171,7 @@ _Banca d' Italia, Frascati Rome_ (as external consultant) +
 * Technology: Struts2, Java EJB 2.1, Jboss EAP 7, Maven, Serena Dimensions.
 * Product: Migration of a web application
 
-| 2016-2017
+| 2016-2017 (AKT srl)
 |
 |  *Backend developer* +
 _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
