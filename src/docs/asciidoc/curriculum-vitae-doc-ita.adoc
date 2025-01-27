@@ -1,0 +1,391 @@
+= Curriculum vitae et studiorum
+:author: Michele Cipolla
+:email: cipmiky@gmail.com
+:revnumber: 1.6
+:revdate: GEN 28 2024s
+:revremark: {doctitle}
+:doctype: article
+:title-page:
+:icons: font
+:imagesdir: images
+
+== Profilo
+
+Laureato in Matematica Applicata con solido background in Analisi Numerica,
+Equazioni differenziali e linguaggio di programmazione C. Interessato a
+sviluppo di applicazioni web, mobili e desktop e nella ricerca matematica.
+Ho una curiosità scientifica per come funzionano le cose, che mi spinge a provare a scoprire
+cosa c'è sotto il cofano.
+
+== Dati personali
+
+[frame=all,grid=none, cols="1s,1"]
+|===
+
+| Nome | Michele
+
+| Cognome | Cipolla
+
+| Data di nascita | 12 Agosto 1987, Frosinone, Italia
+
+| Nazionalità | italiana
+
+| Mail | cipmiky@gmail.com
+
+| Sesso | Male
+
+| Numero di telefono | +393483631872
+
+|===
+
+== Studi
+
+[frame=none,grid=none, cols="1s,1,2a"]
+|===
+
+| 2025-2025
+|
+| *Akka fundamentals + Akka java pattern*
+
+* https://akkademy.akka.io/share/v1/gamification/assigned_badge/82054d97-8c4f-460f-96bc-6cec82957208/shared?lang=en&t=1737894678591[Java Pattern], https://akkademy.akka.io/share/v1/gamification/assigned_badge/74a337e8-3f2b-4603-ae50-dcd2331c4ba7/shared?lang=en&t=1737894802645[Akka basic java]
+
+| 2022-2022
+|
+| *Corso Docker + Kubernetes*
+
+* Argomenti: docker, docker-compose, kubernetes principal objects,
+helm
+
+| 2021-2021
+|
+| *Competence Center* +
+_Microservices con GraphQL Protocol_
+
+* Tecnologie: GraphQL libs, Spring boot, Rust, NestJS,
+Docker and Docker-Compose, Appollo Server Gatway, Appollo Federation
+* Prodotto: A microservices stub architecture using GraphQL protocol
+
+| 2019-2019
+|
+| *Oracle CA Java 8* image:O_java8_CA.png[OCA] +
+_Elis. Roma_
+
+* Argomenti: java se principal features, lambda expression
+, LocalDate and LocalTime new Api.
+
+| 2016-2016
+|
+|  *Corso di apprendistato* +
+_Akt, Roma_
+
+* Argomenti: Java SE, Java EE, SQL, ORACLE
+DB, JDBC, HTML, JAVASCRIPT
+
+| 2011-2014
+|
+|  *Laurea magistrale in matematica per le applicazioni* +
+_La Sapienza, Roma_
+
+* Tesi: "A Semi-Lagrangian Scheme for Mean
+ Curvature Motion Volume Preserving"
+* Argomenti: PDE (Partial differential equation) non linear. Differential geometry.
+Semi-Lagrangian numerical method.
+* Voto: 109/110
+
+| 2006-2010
+|
+|  *Laurea triennale in matematica* +
+_La Sapienza, Roma_
+
+* Tesi: "Peano Brush"
+* Argomenti: ODE (Ordinary differential equation)
+* Voto: 110/110
+
+| 2001-2006
+|
+|  *Diploma liceo scientifico* +
+_Liceo Scientifico  Martin Filetico, Ceccano (FR)_
+
+* Tipo: Diploma liceo scientifico
+* Voto: 100/100
+
+|===
+
+== Esperienze professionali
+
+[frame=none,grid=none, cols="1s,1,2a"]
+|===
+
+| 2024-Oggi (Software Strategy SPA)
+|
+| *Backend Developer* +
+_Almaviva, Roma_ (come consulente esterno) +
+
+* Tecnologie: Spring boot, Spring Integration, Mqtt protocol, Kafka, WSO2 Esb, Wso2 Stream Integrator, Elassandra, MySql, ElasticSearch Client Api, Apache Spark, Portainer, GraalVM, Kubernetes, Helm
+* Prodotto: Applicazione per il monitoraggio di sensori iot installati su ponti e stazioni
+
+
+| 2022-2024 (Software Strategy SPA)
+|
+| *Backend Developer* +
+_Almaviva, Roma_ (come consulente esterno) +
+
+* Tecnoligie: Spring boot, Spring Integration, Mqtt protocol, Kafka, WSO2 Esb, Elassandra, MySql, ElasticSearch Client Api, Apache Spark
+* Prodotto: Applicazione per il monitoraggio di sensori iot installati su ponti e stazioni
+
+| 2022-2022 (Software Strategy SPA)
+|
+| *Full stack developer* +
+_Almaviva, Roma_ (come consulente esterno) +
+
+* Tecnoligie: Spring boot, Google GPRC, Spring Rest Docs, WebAudio Api, AudioWorklet, WAV Specification, Java 17, WSO2 Identity Manager
+* Prodotto: Autenticazione vocale  (Recogniction + Enrollement)
+
+| 2020-2022 (Replay Technology)
+|
+|  *Full stack developer* +
+_Reply Technology, Roma_ +
+
+* Tecnoligie: Angular, Redux, Angular-Material, Git, Java EE, Docker.
+* Product: Applicazione per la gestione dei piani di ammoratamento per CDP (Cassa depositi e prestiti).
+
+| 2019-2020 (Top Network SPA)
+|
+|  *Web developer* +
+_Banca d' Italia, Frascati Roma_ (come consulente esterno) +
+
+* Tecnoligie: Angular, Redux, Webpack, Json-server, Bootstrap, Git, E2E test with Selenium Webdriver Java Api.
+* Product: Management web application.
+
+| 2018-2019 (Top Network SPA)
+|
+|  *Web developer* +
+_Banca d' Italia, Frascati Roma_ (come consulente esterno) +
+
+* Tecnoligie: Angular, Redux, Webpack, Json-server, Bootstrap, Git.
+* Prodotto: Applicazione web di reportistica
+
+| 2017-2018 (Top Network SPA)
+|
+|  *Backend developer* +
+_Banca d' Italia, Frascati Roma_ (come consulente esterno) +
+
+* Tecnoligie: Struts2, Java EJB 2.1, Jboss EAP 7, Maven, Serena Dimensions.
+* Prodotto: Migrazione di un'applicazione web
+
+| 2016-2017 (AKT srl)
+|
+|  *Backend developer* +
+_TopNetwork SPA, Tor Vergata Roma_ (come consulente esterno) +
+
+* Tecnoligie: Zkoss, Java Servlet 3.0, PostgressSql, Tomcat.
+* Prodotto: Applicazione CRUD interna
+
+|===
+
+== Skills
+.Professionali
+[frame=none,grid=none, cols="1s,2a,1s,2", options="header"]
+|===
+
+| Skill
+| Tipo
+| Livello
+| Quando
+
+| Typescript
+|
+* Tutti gli aspletti principali del linguaggio incluse le ultime features dalla versione 3.9.
+* Usato insieme ad  Angular.
+| Medium+
+| Usato per i progetti frontend con Angular
+
+| NestJS
+|
+* Concetti principali: module ,services and dependencies injection
+* Integration with relational database
+* Integration with graphQL protocol
+| Basic
+| Usato per il progetto di competence center
+
+| Java
+|
+* Tutte le caratteristiche principali del linguaggio.
+* Features from JavaSE 17: _Virtual Thread_
+* Features from JavaSE 17: _Record class_, _Switch expression_
+* Features from JavaSE 9: _Java Module_
+* Feature from JavaSE 8: _Lambda, Functional Interface, Default Interface Methods, Stream Api, JDBC Api_
+* Features from JavaEE 7: _Servlet, Json Api, JaxRS, EJB 3.1_
+| Medium+
+| Uso quotidiano
+
+| Spring boot
+|
+* Concetti base, services, controller and repositories
+* Web MVC framwork
+* GraphQL DGS Framework
+* Spring Integartion
+* Spring Data JPA
+* Spring Data Cassandra
+* Spring Actuator
+* Spring REST Docs
+* Spring Shell
+* Spring GRPC
+* Spring Cloud gateway
+| Medium+
+| Uso quotidiano
+
+| Scala
+|
+* Concetti principali del linguaggio scala 2 and 3
+| Medium
+| Uso sporadico
+
+| Apache Spark
+|
+* SQL Data set and Data Frama
+* Scala Api
+* Deploy job on a Yarn cluster
+| Medium
+| Uso sporadico
+
+| Flayway
+|
+* Concetti basi di versionamento del database
+* Configurazione con javaEE and Spring boot
+| Basic
+| Usato nel 2022
+
+| Liquibase
+|
+* Concetti basi di versionamento del database
+* Configurazione con il plugin mmaven
+| Basic
+| Uso quotidiano
+
+| Rust
+|
+* Concetti base del linguaggio: type system, lifetime system, borrowing rules, struct
+, directive, macros, visibility rules, modules organization, traits, branch matching, ecc..
+* Integration with Rocket web framwork
+* Integration with diesel orm library
+* Integration with async rust programming (Tokio runtime)
+* Integration with async-graphQL library
+| Medium
+| Usato per il progetto di competence center
+
+| Build tools & Task Runner
+|
+* Maven
+* Jenkins
+* Gulp
+* Cargo
+| Medium
+| Uso quotidiano
+
+| Bundle Tools
+|
+* Webpack. Used for Angular configuration and other bundle projects
+| Medium
+| Usato per progetti FrontEnd
+
+| Container Tools
+|
+* Docker + docker-compose.
+* Podman + Quadlet.
+| Medium
+| Uso quotidiano
+
+| Deployment Orchestrator Tools
+|
+* Kubernetes.
+| Basic
+| Uso quotidiano
+
+|===
+
+.Study
+[frame=none,grid=none, cols="1s,2a,1s,2", options="header"]
+|===
+
+| Skill
+| Tipo
+| Livello
+| Quando
+
+| ECMAScript
+|
+* Tutte le caratteristiche principali del linguaggio.
+* Some ES6 feature.
+* NodeJs Api
+* Deno runtime Api
+| Medium
+| Usato per progetti front end
+
+| Software Design Patterns
+|
+* Singleton.
+* Observer.
+* Command
+* Visitor
+* Machine State
+* Abstract Factory
+* Dependency Injection
+* Lazy initialitation
+| Basic
+| Usato durante gli studi
+
+| C
+|
+* Tutte le cartteristiche principali del linguaggio.
+* C11 new features.
+* Programming features of  a gnu-linux  enviRomant: _signal, pthread, process, low level I/O, files stat_
+| Medium
+| Usato per il progetto della tesi
+
+| Makefile
+| 
+* Tutte le cartteristiche principali del linguaggio ( recipe, variables, recursive invocation, static rules... )
+| Medium
+| Usato per il progetto della tesi
+
+
+| Tools & Task Runner
+|
+* Gradle:  _basic feature_.
+* Bazel: _basic features_
+| Basic+
+| Usati in qualche progetto personale.
+
+| Container Tools
+|
+* Buildah + skopeo.
+| Medium
+| Usati in qualche progetto personale.
+
+|===
+
+== Projects
+.Archiviati su github
+* Questo CV https://github.com/dmike16/curriculum-vitae-doc
+* Jarvis esempio di un kernel in Rust https://github.com/dual-lab/jarvis
+* Meta constructor for commanderjs https://github.com/dual-lab/meta-commander
+* A webpack html module plugin https://github.com/dual-lab/html-module-webpack-plugin
+* Simple typescript transpliler(tsst) https://github.com/dual-lab/tsst
+* Simple babel just in time transpliler (bast) https://github.com/dual-lab/bast
+* Generic makefile https://github.com/dual-lab/make-build-things
+* Progetto angular https://github.com/dmike16/ngx-lab1100
+* Algoritmo di filtraggio in C (3D image filtering algorithm) per la tesi https://github.com/dmike16/pvMcmMethod
+* Tesi in pdf https://github.com/dmike16/uniDegreeThesis
+* Codice comune per creare un custom k8s Admission webhook https://github.com/dual-lab/admit-webook-boilerplate
+* Collezione di container https://github.com/dual-lab/dlab-containerized
+* Altri progetti https://github.com/dual-lab
+
+== Interessi & Altre informazioni
+Pratico sport ed in particolare calcio e tennis.
+A volte trascorro il mio tempo libero studiando chitarra.
+
+== Privacy
+Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae
+secondo l'art. 13 del D.Lgs. 196/2003 e dell'art. 13 del Regolamento UE 2016/679
+sulla tutela delle persone fisiche con riguardo al trattamento dei dati personali.

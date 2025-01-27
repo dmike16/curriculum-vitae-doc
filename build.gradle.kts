@@ -19,6 +19,7 @@ tasks {
 	baseDirFollowsSourceFile()
     sources(delegateClosureOf<PatternSet> {
       include("curriculum-vitae-doc.adoc")
+      include("curriculum-vitae-doc-ita.adoc")
     })
     outputOptions({
     	setBackends(listOf("pdf"))

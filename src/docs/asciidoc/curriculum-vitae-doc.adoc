@@ -34,6 +34,8 @@ what there is under the hood.
 
 | Gender | Male
 
+| Phone number | +393483631872
+
 |===
 
 == Education
@@ -209,6 +211,8 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 | Java
 |
 * All principal language spec.
+* Features from JavaSE 17: _Virtual Thread_
+* Features from JavaSE 17: _Record class_, _Switch expression_
 * Features from JavaSE 17: _Record class_
 * Features from JavaSE 9: _Java Module_
 * Feature from JavaSE 8: _Lambda, Functional Interface, Default Interface Methods, Stream Api, JDBC Api_
@@ -228,6 +232,7 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 * Spring REST Docs
 * Spring Shell
 * Spring GRPC
+* Spring Cloud gateway
 | Medium+
 | Using Now
 
@@ -235,7 +240,7 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 |
 * Principal language features from scala 2 and 3
 | Medium
-| Using now
+| Sporadic use
 
 | Apache Spark
 |
@@ -243,19 +248,19 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 * Scala Api
 * Deploy job on a Yarn cluster
 | Medium
-| Using now
+| Sporadic use
 
 | Flayway
 |
 * Base migrations concepts
-* Configutation with javaEE and Spring boot
+* Configuration with javaEE and Spring boot
 | Basic
 | Using in 2022
 
 | Liquibase
 |
 * Base migrations concepts
-* Configutation with mavne plugin
+* Configuration with maven plugin
 | Basic
 | Using now
 
@@ -316,7 +321,7 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 * NodeJs Api
 * Deno runtime Api
 | Medium
-| Using now
+| Used in FrontEnd project
 
 | Software Design Patterns
 |
@@ -336,16 +341,14 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 * All principal language spec.
 * C11 new features.
 * Programming features of  a gnu-linux  enviroment: _signal, pthread, process, low level I/O, files stat_
-
 | Medium
 | Using during my thesis project
 
 | Makefile
 | 
 * All principal tools features ( recipe, variables, recursive invocation, static rules... )
-* Create a custom makefile configuration to build different projects.
 | Medium
-| Used for my makefile project
+| Used for my thesis project
 
 
 | Other tools & Task Runner
@@ -361,12 +364,6 @@ _TopNetwork SPA, Tor Vergata Rome_ (as external consultant) +
 * Buildah + skopeo. Studied to give me an alternative to docker deamon.
 | Medium
 | Studied some time ago.
-
-| Deployment Orchestrator Tools
-|
-* Kubernetes. Used during the course
-| Basic
-| Using during the course
 
 |===
 
