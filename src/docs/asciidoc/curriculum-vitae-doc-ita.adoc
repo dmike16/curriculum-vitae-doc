@@ -116,7 +116,7 @@ _Liceo Scientifico  Martin Filetico, Ceccano (FR)_
 [frame=none,grid=none, cols="1s,1,2a"]
 |===
 
-| 2024-Oggi (Software Strategy SPA)
+| 2024-Oggi (SoftStrategy SPA)
 |
 | *Backend Developer* +
 _Almaviva, Roma_ (come consulente esterno) +
@@ -125,7 +125,7 @@ _Almaviva, Roma_ (come consulente esterno) +
 * Prodotto: Applicazione per il monitoraggio di sensori iot installati su ponti e stazioni
 
 
-| 2022-2024 (Software Strategy SPA)
+| 2022-2024 (SoftStrategy SPA)
 |
 | *Backend Developer* +
 _Almaviva, Roma_ (come consulente esterno) +
@@ -133,7 +133,7 @@ _Almaviva, Roma_ (come consulente esterno) +
 * Tecnoligie: Spring boot, Spring Integration, Mqtt protocol, Kafka, WSO2 Esb, Elassandra, MySql, ElasticSearch Client Api, Apache Spark
 * Prodotto: Applicazione per il monitoraggio di sensori iot installati su ponti e stazioni
 
-| 2022-2022 (Software Strategy SPA)
+| 2022-2022 (SoftStrategy SPA)
 |
 | *Full stack developer* +
 _Almaviva, Roma_ (come consulente esterno) +
@@ -147,7 +147,7 @@ _Almaviva, Roma_ (come consulente esterno) +
 _Reply Technology, Roma_ +
 
 * Tecnoligie: Angular, Redux, Angular-Material, Git, Java EE, Docker.
-* Product: Applicazione per la gestione dei piani di ammoratamento per CDP (Cassa depositi e prestiti).
+* Product: Applicazione per la gestione dei piani di ammortamento per CDP (Cassa depositi e prestiti).
 
 | 2019-2020 (Top Network SPA)
 |

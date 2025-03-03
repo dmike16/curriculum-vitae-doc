@@ -116,7 +116,7 @@ _Liceo Scientifico  Martin Filetico, Ceccano (FR)_
 [frame=none,grid=none, cols="1s,1,2a"]
 |===
 
-| 2024-Present (Software Strategy SPA)
+| 2024-Present (SoftStrategy SPA)
 |
 | *Backend Developer* +
 _Almaviva, Rome_ (as external consultant) +
@@ -125,7 +125,7 @@ _Almaviva, Rome_ (as external consultant) +
 * Product: Monitoring application for iot sensors installed on train stations or bridge
 
 
-| 2022-2024 (Software Strategy SPA)
+| 2022-2024 (SoftStrategy SPA)
 |
 | *Backend Developer* +
 _Almaviva, Rome_ (as external consultant) +
@@ -133,7 +133,7 @@ _Almaviva, Rome_ (as external consultant) +
 * Technology: Spring boot, Spring Integration, Mqtt protocol, Kafka, WSO2 Esb, Elassandra, MySql, ElasticSearch Client Api, Apache Spark
 * Product: Monitoring application for iot sensors installed on train stations or bridge
 
-| 2022-2022 (Software Strategy SPA)
+| 2022-2022 (SoftStrategy SPA)
 |
 | *Full stack developer* +
 _Almaviva, Rome_ (as external consultant) +
