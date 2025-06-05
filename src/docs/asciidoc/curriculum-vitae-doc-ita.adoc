@@ -13,9 +13,9 @@
 
 Laureato in Matematica Applicata con solido background in Analisi Numerica,
 Equazioni differenziali e linguaggio di programmazione C. Interessato a
-sviluppo di applicazioni web, mobili e desktop e nella ricerca matematica.
-Ho una curiosità scientifica per come funzionano le cose, che mi spinge a provare a scoprire
-cosa c'è sotto il cofano.
+sviluppo di applicazioni web, mobile e desktop e nella ricerca matematica.
+Ho una curiosità scientifica per come funzionano le cose, che mi spinge a provare
+e a scoprire cosa c'è sotto il cofano.
 
 == Dati personali
 
@@ -32,7 +32,7 @@ cosa c'è sotto il cofano.
 
 | Mail | cipmiky@gmail.com
 
-| Sesso | Male
+| Sesso | Maschile
 
 | Numero di telefono | +393483631872
 
@@ -70,7 +70,7 @@ Docker and Docker-Compose, Appollo Server Gatway, Appollo Federation
 | *Oracle CA Java 8* image:O_java8_CA.png[OCA] +
 _Elis. Roma_
 
-* Argomenti: java se principal features, lambda expression
+* Argomenti: Java SE principal features, lambda expression
 , LocalDate and LocalTime new Api.
 
 | 2016-2016
@@ -116,7 +116,7 @@ _Liceo Scientifico  Martin Filetico, Ceccano (FR)_
 [frame=none,grid=none, cols="1s,1,2a"]
 |===
 
-| 2024-Oggi (SoftStrategy SPA)
+| 2022-Oggi (SoftStrategy SPA)
 |
 | *Backend Developer* +
 _Almaviva, Roma_ (come consulente esterno) +
@@ -124,22 +124,6 @@ _Almaviva, Roma_ (come consulente esterno) +
 * Tecnologie: Spring boot, Spring Integration, Mqtt protocol, Kafka, WSO2 Esb, Wso2 Stream Integrator, Elassandra, MySql, ElasticSearch Client Api, Apache Spark, Portainer, GraalVM, Kubernetes, Helm
 * Prodotto: Applicazione per il monitoraggio di sensori iot installati su ponti e stazioni
 
-
-| 2022-2024 (SoftStrategy SPA)
-|
-| *Backend Developer* +
-_Almaviva, Roma_ (come consulente esterno) +
-
-* Tecnoligie: Spring boot, Spring Integration, Mqtt protocol, Kafka, WSO2 Esb, Elassandra, MySql, ElasticSearch Client Api, Apache Spark
-* Prodotto: Applicazione per il monitoraggio di sensori iot installati su ponti e stazioni
-
-| 2022-2022 (SoftStrategy SPA)
-|
-| *Full stack developer* +
-_Almaviva, Roma_ (come consulente esterno) +
-
-* Tecnoligie: Spring boot, Google GPRC, Spring Rest Docs, WebAudio Api, AudioWorklet, WAV Specification, Java 17, WSO2 Identity Manager
-* Prodotto: Autenticazione vocale  (Recogniction + Enrollement)
 
 | 2020-2022 (Replay Technology)
 |
@@ -152,7 +136,7 @@ _Reply Technology, Roma_ +
 | 2019-2020 (Top Network SPA)
 |
 |  *Web developer* +
-_Banca d' Italia, Frascati Roma_ (come consulente esterno) +
+_Banca d'Italia, Frascati Roma_ (come consulente esterno) +
 
 * Tecnoligie: Angular, Redux, Webpack, Json-server, Bootstrap, Git, E2E test with Selenium Webdriver Java Api.
 * Product: Management web application.
@@ -304,66 +288,66 @@ _TopNetwork SPA, Tor Vergata Roma_ (come consulente esterno) +
 
 |===
 
-.Study
-[frame=none,grid=none, cols="1s,2a,1s,2", options="header"]
-|===
-
-| Skill
-| Tipo
-| Livello
-| Quando
-
-| ECMAScript
-|
-* Tutte le caratteristiche principali del linguaggio.
-* Some ES6 feature.
-* NodeJs Api
-* Deno runtime Api
-| Medium
-| Usato per progetti front end
-
-| Software Design Patterns
-|
-* Singleton.
-* Observer.
-* Command
-* Visitor
-* Machine State
-* Abstract Factory
-* Dependency Injection
-* Lazy initialitation
-| Basic
-| Usato durante gli studi
-
-| C
-|
-* Tutte le cartteristiche principali del linguaggio.
-* C11 new features.
-* Programming features of  a gnu-linux  enviRomant: _signal, pthread, process, low level I/O, files stat_
-| Medium
-| Usato per il progetto della tesi
-
-| Makefile
-| 
-* Tutte le cartteristiche principali del linguaggio ( recipe, variables, recursive invocation, static rules... )
-| Medium
-| Usato per il progetto della tesi
-
-
-| Tools & Task Runner
-|
-* Gradle:  _basic feature_.
-* Bazel: _basic features_
-| Basic+
-| Usati in qualche progetto personale.
-
-| Container Tools
-|
-* Buildah + skopeo.
-| Medium
-| Usati in qualche progetto personale.
-
-|===
+// .Study
+// [frame=none,grid=none, cols="1s,2a,1s,2", options="header"]
+// |===
+//
+// | Skill
+// | Tipo
+// | Livello
+// | Quando
+//
+// | ECMAScript
+// |
+// * Tutte le caratteristiche principali del linguaggio.
+// * Some ES6 feature.
+// * NodeJs Api
+// * Deno runtime Api
+// | Medium
+// | Usato per progetti front end
+//
+// | Software Design Patterns
+// |
+// * Singleton.
+// * Observer.
+// * Command
+// * Visitor
+// * Machine State
+// * Abstract Factory
+// * Dependency Injection
+// * Lazy initialitation
+// | Basic
+// | Usato durante gli studi
+//
+// | C
+// |
+// * Tutte le cartteristiche principali del linguaggio.
+// * C11 new features.
+// * Programming features of  a gnu-linux  enviRomant: _signal, pthread, process, low level I/O, files stat_
+// | Medium
+// | Usato per il progetto della tesi
+//
+// | Makefile
+// |
+// * Tutte le cartteristiche principali del linguaggio ( recipe, variables, recursive invocation, static rules... )
+// | Medium
+// | Usato per il progetto della tesi
+//
+//
+// | Tools & Task Runner
+// |
+// * Gradle:  _basic feature_.
+// * Bazel: _basic features_
+// | Basic+
+// | Usati in qualche progetto personale.
+//
+// | Container Tools
+// |
+// * Buildah + skopeo.
+// | Medium
+// | Usati in qualche progetto personale.
+//
+// |===
 
 == Projects
 .Archiviati su github
