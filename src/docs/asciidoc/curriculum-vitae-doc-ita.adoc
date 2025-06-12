@@ -131,7 +131,7 @@ _Almaviva, Roma_ (come consulente esterno) +
 _Reply Technology, Roma_ +
 
 * Tecnologie: Angular, Redux, Angular-Material, Git, Java EE, Docker.
-* Product: Applicazione per la gestione dei piani di ammortamento per CDP (Cassa depositi e prestiti).
+* Prodotto: Applicazione per la gestione dei piani di ammortamento per CDP (Cassa depositi e prestiti).
 
 | 2019-2020 (Top Network SPA)
 |
@@ -139,7 +139,7 @@ _Reply Technology, Roma_ +
 _Banca d'Italia, Frascati Roma_ (come consulente esterno) +
 
 * Tecnologie: Angular, Redux, Webpack, Json-server, Bootstrap, Git, E2E test with Selenium Webdriver Java Api.
-* Product: Management web application.
+* Prodotto: Management web application.
 
 | 2018-2019 (Top Network SPA)
 |
