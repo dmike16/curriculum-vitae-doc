@@ -130,7 +130,7 @@ _Almaviva, Roma_ (come consulente esterno) +
 |  *Full stack developer* +
 _Reply Technology, Roma_ +
 
-* Tecnoligie: Angular, Redux, Angular-Material, Git, Java EE, Docker.
+* Tecnologie: Angular, Redux, Angular-Material, Git, Java EE, Docker.
 * Product: Applicazione per la gestione dei piani di ammortamento per CDP (Cassa depositi e prestiti).
 
 | 2019-2020 (Top Network SPA)
@@ -138,7 +138,7 @@ _Reply Technology, Roma_ +
 |  *Web developer* +
 _Banca d'Italia, Frascati Roma_ (come consulente esterno) +
 
-* Tecnoligie: Angular, Redux, Webpack, Json-server, Bootstrap, Git, E2E test with Selenium Webdriver Java Api.
+* Tecnologie: Angular, Redux, Webpack, Json-server, Bootstrap, Git, E2E test with Selenium Webdriver Java Api.
 * Product: Management web application.
 
 | 2018-2019 (Top Network SPA)
@@ -146,7 +146,7 @@ _Banca d'Italia, Frascati Roma_ (come consulente esterno) +
 |  *Web developer* +
 _Banca d' Italia, Frascati Roma_ (come consulente esterno) +
 
-* Tecnoligie: Angular, Redux, Webpack, Json-server, Bootstrap, Git.
+* Tecnologie: Angular, Redux, Webpack, Json-server, Bootstrap, Git.
 * Prodotto: Applicazione web di reportistica
 
 | 2017-2018 (Top Network SPA)
@@ -154,7 +154,7 @@ _Banca d' Italia, Frascati Roma_ (come consulente esterno) +
 |  *Backend developer* +
 _Banca d' Italia, Frascati Roma_ (come consulente esterno) +
 
-* Tecnoligie: Struts2, Java EJB 2.1, Jboss EAP 7, Maven, Serena Dimensions.
+* Tecnologie: Struts2, Java EJB 2.1, Jboss EAP 7, Maven, Serena Dimensions.
 * Prodotto: Migrazione di un'applicazione web
 
 | 2016-2017 (AKT srl)
@@ -162,7 +162,7 @@ _Banca d' Italia, Frascati Roma_ (come consulente esterno) +
 |  *Backend developer* +
 _TopNetwork SPA, Tor Vergata Roma_ (come consulente esterno) +
 
-* Tecnoligie: Zkoss, Java Servlet 3.0, PostgressSql, Tomcat.
+* Tecnologie: Zkoss, Java Servlet 3.0, PostgressSql, Tomcat.
 * Prodotto: Applicazione CRUD interna
 
 |===
